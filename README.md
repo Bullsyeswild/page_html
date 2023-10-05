@@ -4,7 +4,7 @@ Minha primeira página HTML!
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | Págona HTML
+| :sparkles: Nome        | Página HTML
 | :label: Tecnologias | HTML e CSS
 | :rocket: URL         | https://vercel.com/bullsyeswild/page-html
 
