@@ -8,8 +8,7 @@ Minha primeira página HTML!
 | :label: Tecnologias | HTML e CSS
 | :rocket: URL         | https://vercel.com/bullsyeswild/page-html
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![Captura de tela 2023-09-05 194559](https://github.com/Bullsyeswild/page_html/assets/127852691/50831b06-aad4-455a-985a-c9a36265d5b7#virinedev)
+https://github.com/Bullsyeswild/page_html/assets/127852691/e16f4ab3-658a-4ef7-a32e-4cc1d9fa1f3f
 
 ## Detalhes do projeto
 
